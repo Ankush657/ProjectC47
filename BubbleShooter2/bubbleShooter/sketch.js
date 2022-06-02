@@ -5,8 +5,6 @@ var bullet, bulletImg
 var heart1, heart2, heart3;
 var heart1Img, heart2Img, heart3Img;
 
-var zombieGroup;
-
 var bullets = 20;
 
 var gameState = "fight"
